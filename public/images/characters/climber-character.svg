@@ -1,0 +1,22 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cap rotund -->
+  <circle cx="40" cy="25" r="15" fill="#FFD700"/>
+  
+  <!-- Corp -->
+  <rect x="30" y="35" width="20" height="25" rx="5" fill="#4A90E2"/>
+  
+  <!-- Brațe -->
+  <rect x="20" y="40" width="10" height="4" rx="2" fill="#4A90E2"/>
+  <rect x="50" y="40" width="10" height="4" rx="2" fill="#4A90E2"/>
+  
+  <!-- Picioare -->
+  <rect x="32" y="60" width="6" height="15" rx="3" fill="#4A90E2"/>
+  <rect x="42" y="60" width="6" height="15" rx="3" fill="#4A90E2"/>
+  
+  <!-- Ochi -->
+  <circle cx="35" cy="23" r="2" fill="#333"/>
+  <circle cx="45" cy="23" r="2" fill="#333"/>
+  
+  <!-- Zâmbet -->
+  <path d="M 33 28 Q 40 32 47 28" stroke="#333" stroke-width="2" fill="none"/>
+</svg>
